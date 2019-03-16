@@ -16,7 +16,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vue": "2.5.13"
+    "axois": "^1.0.0",
+    "element": "^0.1.4",
+    "nuxt": "^2.4.5",
+    "vue": "2.5.13",
+    "vue-meteor": "^1.0.1",
+    "vue-router": "^3.0.2",
+    "vue-server-renderer": "^2.6.9",
+    "vuex": "^3.1.0"
   },
   "devDependencies": {
     "autoprefixer": "7.2.3",
